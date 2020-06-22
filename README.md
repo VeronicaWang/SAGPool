@@ -5,11 +5,8 @@
 2.torch_scatter:2.0.3<br>
 3.scipy:1.4.1<br>
 # 数据集
-## DD<br>
-https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DD.zip<br>
-## COX2<br>
-https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COX2.zip<br>
-## BZR<br>
-https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/BZR.zip<br>
+1.DD:https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DD.zip<br>
+2.COX2:https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COX2.zip<br>
+3.BZR:https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/BZR.zip<br>
 # 运行方式
 `pyhton self_attn_pool.py`
