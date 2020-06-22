@@ -6,7 +6,7 @@
 3.scipy:1.4.1<br>
 # 数据集
 ## data:
-1.DD<br>:
+1.DD<br>
 https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/DD.zip<br>
 2.COX2<br>
 https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COX2.zip<br>
