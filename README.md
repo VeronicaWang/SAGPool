@@ -9,4 +9,5 @@
 2.COX2:https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/COX2.zip<br>
 3.BZR:https://ls11-www.cs.tu-dortmund.de/people/morris/graphkerneldatasets/BZR.zip<br>
 # 运行方式
-`pyhton self_attn_pool.py`
+1.下载整个项目
+2.定位到self_attn_pool.py位置，运行`pyhton self_attn_pool.py`
